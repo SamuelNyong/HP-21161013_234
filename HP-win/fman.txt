@@ -1,5 +1,0 @@
-cd /Document
-cd ..
-dir
-mkdir folder1 2 3
-rmdir folder3
